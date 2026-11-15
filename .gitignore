@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+flutter_assets/
+app.so
+icudtl.dat
